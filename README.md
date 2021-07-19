@@ -1,1 +1,1 @@
-P5.js - Processing - repoository of created scetches.
+P5.js - Processing - generative coding scetches.
